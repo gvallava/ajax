@@ -1,0 +1,11 @@
+button, div, form, input {
+	margin: 10px;
+}
+
+
+.animalDiv {
+	border: black 1px;
+	width: 50%;
+	padding: 10px;
+
+}
